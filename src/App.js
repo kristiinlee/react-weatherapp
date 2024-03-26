@@ -10,7 +10,7 @@ function App() {
           Weather App
         </h1>
         <Weathersearch />
-
+      <p>This page was coded by <a href="https://github.com/kristiinlee" target="_blank">Kristin Jones</a> and open sourced on <a href="https://github.com/kristiinlee/react-weatherapp" target="_blank">Github</a></p>
       </header>
     </div>
   );
